@@ -142,6 +142,7 @@ Everyday calculators for quick, reliable decisions.
 |---|---|
 | [BMI Calculator](https://www.onlinetoolkithub.com/tools/bmi-calculator) | Calculate your Body Mass Index in seconds |
 | [EMI Calculator](https://www.onlinetoolkithub.com/tools/emi-calculator) | Estimate your EMI, total interest, and repayment schedule |
+| [DateCalx](https://datecalx.com/) | Free online calculators for dates, age, business days, countdowns, calendars, and time |
 
 [Browse all calculator tools →](https://www.onlinetoolkithub.com/category/calculators)
 
