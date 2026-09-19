@@ -120,6 +120,8 @@ Format, validate, encode, and debug — the everyday utility belt for developers
 | [HTML Formatter](https://www.onlinetoolkithub.com/tools/html-formatter) | Clean up minified or messy HTML |
 | [XML Formatter](https://www.onlinetoolkithub.com/tools/xml-formatter) | Reformat XML API responses or config exports |
 | [Password Generator](https://www.onlinetoolkithub.com/tools/password-generator) | Create strong, random passwords instantly |
+| [NextReset](https://nextreset.ai/) | Track observed Codex reset history and official incident sources |
+
 
 [Browse all developer tools →](https://www.onlinetoolkithub.com/category/developer)
 
