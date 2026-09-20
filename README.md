@@ -153,6 +153,10 @@ Count, convert, and clean up text instantly.
 ### Utility Tools
 Unit conversion, timers, and everyday generators.
 
+| Tool | Description |
+|---|---|
+| [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) | Free browser-only freelance invoice, quote, receipt, and client paperwork generators (print to PDF, no signup) |
+
 [Browse all utility tools →](https://www.onlinetoolkithub.com/category/utility)
 
 ---
