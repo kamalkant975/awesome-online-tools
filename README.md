@@ -101,6 +101,7 @@ Resize, compress, convert, and edit images without losing quality.
 | [Compress Image](https://www.onlinetoolkithub.com/tools/compress-image) | Shrink image file size for faster loading pages |
 | [Remove Image Background](https://www.onlinetoolkithub.com/tools/remove-background) | Erase the background from a photo automatically |
 | [Convert JPG to PNG](https://www.onlinetoolkithub.com/tools/jpg-to-png) | Convert JPG images to transparent-ready PNG |
+| [FileOnTap HEIC to PNG Converter](https://fileontap.com/heic-to-png/) | Convert HEIC images to PNG locally in your browser with no signup or file upload |
 | [Watermark Image](https://www.onlinetoolkithub.com/tools/watermark-image) | Add a custom text watermark to photos |
 
 [Browse all image tools →](https://www.onlinetoolkithub.com/category/image)
