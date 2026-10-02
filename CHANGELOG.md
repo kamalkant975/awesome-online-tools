@@ -6,6 +6,18 @@ All notable changes to this list are documented here. Format loosely follows [Ke
 
 - Nothing yet — open a PR!
 
+## [2.0.0] — 2026-10-02
+
+### Added
+
+- Full link directory synced from the live site: all 240 tools across 8 categories, 21 collections, 4 workflows, the AI tools directory (10 categories, 26 listings), 65 blog articles, 14 learning topics, services and case studies
+- GitHub Pages directory (`index.html`) at https://kamalkant975.github.io/awesome-online-tools/
+- Banner, logo and favicon in `assets/`
+
+### Changed
+
+- README restructured from curated examples to a complete directory of every page in the sitemap
+
 ## [1.0.0] — 2026-08-09
 
 ### Added

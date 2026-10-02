@@ -5,7 +5,7 @@ Copy-paste values for GitHub repo settings, plus the growth strategy behind this
 ## Repository Description (GitHub "About" field)
 
 ```
-A curated list of 200+ free online tools for PDF, image, AI, developer, SEO, text, and everyday tasks — no sign-up, no watermark, no upload limits.
+A curated list of 240+ free online tools for PDF, image, AI, developer, SEO, text, and everyday tasks — no sign-up, no watermark, no upload limits.
 ```
 
 ## Social Preview Description
@@ -13,7 +13,7 @@ A curated list of 200+ free online tools for PDF, image, AI, developer, SEO, tex
 Used for the Open Graph / link-preview card GitHub generates when this repo is shared:
 
 ```
-Awesome Online Tools — a curated, community-maintained list of 200+ free
+Awesome Online Tools — a curated, community-maintained list of 240+ free
 browser-based tools (PDF, image, AI, developer, SEO, calculators, text)
 for developers, students, freelancers, and businesses.
 ```
