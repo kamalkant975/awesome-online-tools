@@ -119,7 +119,7 @@ Merge, split, compress, convert and edit PDF files in your browser.
 | [Split PDF by File Size](https://www.onlinetoolkithub.com/tools/split-pdf-by-size) | Break a large PDF into smaller files that each fit under a target size. |
 
 <a name="image-tools"></a>
-## Image Tools (41)
+## Image Tools (42)
 
 Free online image tools to resize, compress, convert, edit and analyze images.
 
@@ -166,6 +166,7 @@ Free online image tools to resize, compress, convert, edit and analyze images.
 | [Meme Generator](https://www.onlinetoolkithub.com/tools/meme-generator) | Add bold top and bottom captions to any image and download your meme. |
 | [Passport / ID Photo Maker](https://www.onlinetoolkithub.com/tools/passport-photo-maker) | Crop and resize a photo to standard passport, visa and ID dimensions. |
 | [Color Blindness Simulator](https://www.onlinetoolkithub.com/tools/color-blindness-simulator) | Preview how an image looks with common color vision deficiencies. |
+| [Stunna browser photo tools](https://stunna-app.com/tools) | Free camera-inspired filters, photo booth and strip maker; local processing, no account or watermark. |
 
 <a name="ai-tools"></a>
 ## AI Tools (14)
