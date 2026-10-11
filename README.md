@@ -480,6 +480,7 @@ Hand-checked listings of third-party AI tools, by category.
 |---|---|
 | [ElevenLabs](https://www.onlinetoolkithub.com/ai-tools/elevenlabs) | Realistic text-to-speech, voice cloning, dubbing and speech-to-text, in the app and through an API. |
 | [Otter.ai](https://www.onlinetoolkithub.com/ai-tools/otter-ai) | Joins your Zoom, Google Meet and Teams calls to transcribe them live and write summaries and action items. |
+| [QuietTake Noise Remover](https://noiseremover.site/) | Free browser-based speech noise removal with RNNoise, A/B playback and WAV export. |
 
 ### AI Design
 
