@@ -129,6 +129,7 @@ Free online image tools to resize, compress, convert, edit and analyze images.
 | [Compress Image](https://www.onlinetoolkithub.com/tools/compress-image) | Shrink image file size for faster loading pages. |
 | [Convert JPG to PNG](https://www.onlinetoolkithub.com/tools/jpg-to-png) | Convert JPG images to transparent-ready PNG format. |
 | [Remove Image Background](https://www.onlinetoolkithub.com/tools/remove-background) | Erase the background from a photo automatically. |
+| [Background Remover](https://tomaserben.com/free-tools/image-background-remover) | Remove image backgrounds in the browser with no signup; photos stay on the device. |
 | [Watermark Image](https://www.onlinetoolkithub.com/tools/watermark-image) | Add a custom text watermark to your photos. |
 | [Crop Image](https://www.onlinetoolkithub.com/tools/crop-image) | Crop photos to common aspect ratios like 1:1 or 16:9. |
 | [Rotate & Flip Image](https://www.onlinetoolkithub.com/tools/rotate-flip-image) | Rotate 90° or flip an image horizontally or vertically. |
