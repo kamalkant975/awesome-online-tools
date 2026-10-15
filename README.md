@@ -325,6 +325,7 @@ Free online calculators for finance, health, dates and everyday math — BMI, EM
 | [SIP Calculator](https://www.onlinetoolkithub.com/tools/sip-calculator) | Estimate the future value of a monthly SIP investment. |
 | [CAGR Calculator](https://www.onlinetoolkithub.com/tools/cagr-calculator) | Calculate the compound annual growth rate between two values. |
 | [Body Fat Percentage Calculator](https://www.onlinetoolkithub.com/tools/body-fat-calculator) | Estimate body fat percentage using the U.S. Navy method. |
+| [RAID Calculator](https://17nas.com/raid-calculator.php) | Estimate usable capacity for RAID 0/1/5/6/10, RAID-Z1/Z2/Z3, and Synology SHR with up to 12 mixed drives. |
 
 <a name="text-tools"></a>
 ## Text Tools (27)
