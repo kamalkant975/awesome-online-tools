@@ -304,7 +304,7 @@ Generate meta tags, schema markup and check on-page SEO essentials.
 | [Title Tag Pixel Width Checker](https://www.onlinetoolkithub.com/tools/title-tag-pixel-width-checker) | Measure how wide your title tag renders in search results, in pixels. |
 
 <a name="calculators-tools"></a>
-## Calculators (15)
+## Calculators (16)
 
 Free online calculators for finance, health, dates and everyday math — BMI, EMI, GST, SIP and more.
 
@@ -322,6 +322,7 @@ Free online calculators for finance, health, dates and everyday math — BMI, EM
 | [Days Between Dates Calculator](https://www.onlinetoolkithub.com/tools/days-between-dates-calculator) | Find the exact number of days between two dates. |
 | [Time Zone Converter](https://www.onlinetoolkithub.com/tools/time-zone-converter) | Convert a date and time from one timezone into every major timezone at once. |
 | [BMR & Calorie Calculator](https://www.onlinetoolkithub.com/tools/bmr-calorie-calculator) | Estimate your basal metabolic rate and daily calorie needs. |
+| [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) | Estimate US roof replacement costs by size, material, location and tear-off. |
 | [SIP Calculator](https://www.onlinetoolkithub.com/tools/sip-calculator) | Estimate the future value of a monthly SIP investment. |
 | [CAGR Calculator](https://www.onlinetoolkithub.com/tools/cagr-calculator) | Calculate the compound annual growth rate between two values. |
 | [Body Fat Percentage Calculator](https://www.onlinetoolkithub.com/tools/body-fat-calculator) | Estimate body fat percentage using the U.S. Navy method. |
