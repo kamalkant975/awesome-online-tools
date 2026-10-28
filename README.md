@@ -360,6 +360,7 @@ Free online text tools for counting, formatting, converting, comparing and clean
 | [Anagram Checker](https://www.onlinetoolkithub.com/tools/anagram-checker) | Check whether two words or phrases are anagrams of each other. |
 | [Find and Replace Text Tool](https://www.onlinetoolkithub.com/tools/find-and-replace-text) | Bulk find and replace text with case, whole-word and regex options. |
 | [Vigenère Cipher Encoder/Decoder](https://www.onlinetoolkithub.com/tools/vigenere-cipher-tool) | Encode or decode text with a Vigenère cipher keyword. |
+| [Text Match Cut](https://textmatchcut.net/) | Free online text match cut video maker. |
 
 <a name="utility-tools"></a>
 ## Utility Tools (18)
