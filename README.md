@@ -362,7 +362,7 @@ Free online text tools for counting, formatting, converting, comparing and clean
 | [Vigenère Cipher Encoder/Decoder](https://www.onlinetoolkithub.com/tools/vigenere-cipher-tool) | Encode or decode text with a Vigenère cipher keyword. |
 
 <a name="utility-tools"></a>
-## Utility Tools (18)
+## Utility Tools (19)
 
 Free online utility tools for unit conversion, timers, random generators, QR codes and validators. Fast, simple and no sign-up required.
 
@@ -378,6 +378,7 @@ Free online utility tools for unit conversion, timers, random generators, QR cod
 | [Coin Flip & Dice Roller](https://www.onlinetoolkithub.com/tools/coin-flip-dice-roller) | Flip a coin or roll dice — d4 through d20 — for quick, fair randomization. |
 | [Random Team Generator](https://www.onlinetoolkithub.com/tools/random-team-generator) | Split a list of names into randomly shuffled, evenly sized teams. |
 | [Random Name Picker](https://www.onlinetoolkithub.com/tools/random-name-picker) | Pick a single random winner from a list of names. |
+| [RandomGeneratr NPC Generator](https://randomgeneratr.com/npc-generator) | Generate fictional NPC names, motives, flaws, and story hooks for tabletop preparation. |
 | [Countdown Timer](https://www.onlinetoolkithub.com/tools/countdown-timer) | Count down to any future date and time, live, in days, hours, minutes and seconds. |
 | [WiFi QR Code Generator](https://www.onlinetoolkithub.com/tools/wifi-qr-code-generator) | Generate a scannable QR code that connects a phone to your WiFi instantly. |
 | [Password Strength Checker](https://www.onlinetoolkithub.com/tools/password-strength-checker) | Check how strong a password is and see specific weaknesses. |
