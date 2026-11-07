@@ -119,12 +119,13 @@ Merge, split, compress, convert and edit PDF files in your browser.
 | [Split PDF by File Size](https://www.onlinetoolkithub.com/tools/split-pdf-by-size) | Break a large PDF into smaller files that each fit under a target size. |
 
 <a name="image-tools"></a>
-## Image Tools (41)
+## Image Tools (42)
 
 Free online image tools to resize, compress, convert, edit and analyze images.
 
 | Page | Description |
 |---|---|
+| [ASCII Images](https://ascii-images.com/image-to-ascii) | Convert images into character artwork in your browser without an account. |
 | [Resize Image](https://www.onlinetoolkithub.com/tools/resize-image) | Change image dimensions without losing sharpness. |
 | [Compress Image](https://www.onlinetoolkithub.com/tools/compress-image) | Shrink image file size for faster loading pages. |
 | [Convert JPG to PNG](https://www.onlinetoolkithub.com/tools/jpg-to-png) | Convert JPG images to transparent-ready PNG format. |
