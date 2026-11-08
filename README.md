@@ -304,13 +304,14 @@ Generate meta tags, schema markup and check on-page SEO essentials.
 | [Title Tag Pixel Width Checker](https://www.onlinetoolkithub.com/tools/title-tag-pixel-width-checker) | Measure how wide your title tag renders in search results, in pixels. |
 
 <a name="calculators-tools"></a>
-## Calculators (15)
+## Calculators (16)
 
 Free online calculators for finance, health, dates and everyday math — BMI, EMI, GST, SIP and more.
 
 | Page | Description |
 |---|---|
 | [BMI Calculator](https://www.onlinetoolkithub.com/tools/bmi-calculator) | Calculate your Body Mass Index in seconds. |
+| [Bike Size Calculator](https://bike-size.com/calculators/bike-size) | Free starting frame-size estimates from height and inseam for road, mountain and hybrid bikes. |
 | [Age Calculator](https://www.onlinetoolkithub.com/tools/age-calculator) | Find your exact age in years, months and days. |
 | [EMI Calculator](https://www.onlinetoolkithub.com/tools/emi-calculator) | Calculate your monthly EMI, total interest and full repayment schedule for home, personal, car and other loans. |
 | [Percentage Calculator](https://www.onlinetoolkithub.com/tools/percentage-calculator) | Calculate percentages, splits and percentage change instantly. |
