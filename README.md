@@ -90,6 +90,7 @@ Merge, split, compress, convert and edit PDF files in your browser.
 
 | Page | Description |
 |---|---|
+| [Mdpresso](https://mdpresso.com/) | Split PDFs by page range or extract selected pages in the browser. |
 | [Merge PDF](https://www.onlinetoolkithub.com/tools/merge-pdf) | Combine multiple PDF files into a single document. |
 | [Split PDF](https://www.onlinetoolkithub.com/tools/split-pdf) | Extract pages or split a PDF into multiple files. |
 | [Compress PDF](https://www.onlinetoolkithub.com/tools/compress-pdf) | Reduce PDF file size while keeping quality intact. |
